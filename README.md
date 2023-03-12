@@ -1,1 +1,2 @@
 # kodluyoruzilkdepo
+İlk oluştuduğumuz depo
